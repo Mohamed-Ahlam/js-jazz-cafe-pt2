@@ -1,0 +1,39 @@
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: #7B6B43; /* A warm earthy background color */
+    color: #FFF5E1; /* Soft off-white for text to complement the warm background */
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.2); /* Lighter background for the container for a soft, airy feel */
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Softer shadow for a subtle depth */
+    text-align: center;
+    border: 1px solid #FFDAB9; /* A soft border color for a touch of warmth */
+}
+
+h1 {
+    font-size: 48px;
+    color: #fffef0; /* A golden hue for headings to add warmth */
+    margin-bottom: 30px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2); /* Softer text shadow for depth */
+}
+
+p {
+    font-size: 18px;
+    line-height: 1.6;
+    margin-bottom: 20px;
+    color: #FFF8DC; /* Cream-colored text for easy reading against the warm background */
+}
+
+h3 {
+    font-size: 28px;
+    color: #fffaee; /* Matching the golden hue for consistency in headings */
+    margin-bottom: 20px;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2); /* Consistent text shadow styling with h1 */
+}
