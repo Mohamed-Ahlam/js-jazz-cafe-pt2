@@ -76,6 +76,7 @@ function JazzBand(name, type){
     let band = {}
     band.name = name
     band.type = type
+    return band
 }
     // Create a new object with the specified properties
     // Return the newly created band object
